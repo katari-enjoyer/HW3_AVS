@@ -23,7 +23,7 @@ double f_e(double x) {
 
 int main(int argc, char *argv[]){
   if(argc != 3){
-      printf("Wrong input, read README.md\n");
+      printf("Wrong input, check README.md\n");
       return 0;
     }
     FILE *input = fopen(argv[1], "r");
