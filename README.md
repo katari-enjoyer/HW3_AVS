@@ -8,10 +8,14 @@
 ![img](/7-2.png)
 
 # Tests
-(1)![img](/test1.png)
-(-1)![img](/test-1.png)
-(3)![img](/test3.png)
-(-3)![img](/test-3.png)
+(1)
+![img](/test1.png)
+(-1)
+![img](/test-1.png)
+(3)
+![img](/test3.png)
+(-3)
+![img](/test-3.png)
 
 ##### Команды для проверки:
 
