@@ -9,13 +9,13 @@
 
 # Tests
 (1)
-![img](/test1.png)
+![img](/test1.jpg)
 (-1)
-![img](/test-1.png)
+![img](/test-1.jpg)
 (3)
-![img](/test3.png)
+![img](/test3.jpg)
 (-3)
-![img](/test-3.png)
+![img](/test-3.jpg)
 
 ##### Команды для проверки:
 
